@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             // Изменение в подзадаче 1
-            Console.WriteLine("Hello, World!");
             // Изменение в подзадаче 2
+            // Изменения в подзадаче 3
         }
     }
 }
